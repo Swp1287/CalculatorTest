@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10683" started-at="2021-02-06T18:56:08Z" finished-at="2021-02-06T18:56:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10683" started-at="2021-02-06T18:56:08Z" finished-at="2021-02-06T18:56:18Z">
+      <class name="calulator.test.LoadTest01">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:calulator.test.LoadTest01@6debcae2]" name="beforeClass" is-config="true" duration-ms="6942" started-at="2021-02-07T00:26:08Z" finished-at="2021-02-07T00:26:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="Multiplication()[pri:1, instance:calulator.test.LoadTest01@6debcae2]" name="Multiplication" duration-ms="537" started-at="2021-02-07T00:26:15Z" finished-at="2021-02-07T00:26:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Multiplication -->
+        <test-method status="PASS" signature="Division()[pri:2, instance:calulator.test.LoadTest01@6debcae2]" name="Division" duration-ms="456" started-at="2021-02-07T00:26:15Z" finished-at="2021-02-07T00:26:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Division -->
+        <test-method status="PASS" signature="Addition()[pri:3, instance:calulator.test.LoadTest01@6debcae2]" name="Addition" duration-ms="711" started-at="2021-02-07T00:26:16Z" finished-at="2021-02-07T00:26:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addition -->
+        <test-method status="PASS" signature="Subtraction()[pri:4, instance:calulator.test.LoadTest01@6debcae2]" name="Subtraction" duration-ms="875" started-at="2021-02-07T00:26:16Z" finished-at="2021-02-07T00:26:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Subtraction -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:calulator.test.LoadTest01@6debcae2]" name="afterClass" is-config="true" duration-ms="1135" started-at="2021-02-07T00:26:17Z" finished-at="2021-02-07T00:26:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- calulator.test.LoadTest01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
